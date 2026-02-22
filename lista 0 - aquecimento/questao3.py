@@ -12,13 +12,13 @@ def verificador(expressao):
             #print("tem2!")
             #print("peek stack:",stack[-1])
             if not stack:
-                print(f"não tem abertura para o delimitador, expressão invalida")
+                print("não tem abertura para um delimitador, expressão invalida")
                 return
             elif stack[-1] == pares[x]:
                 stack.pop()
                 #print("removido,",stack)
             else:
-                print(f"não esta fechado corretamente para o delimitador, expressão invalida")
+                print("um o delimitador não esta fechado corretamente , expressão invalida")
                 return
         #else:
         #    print("não é delimitador")
