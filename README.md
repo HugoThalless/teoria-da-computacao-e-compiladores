@@ -1,5 +1,5 @@
 ## Lista 0 - Aquecimento
-Este repositório contém exercícios em Python.
+As questões foram feito em Python.
 ### Estrutura
 lista 0 - aquecimento/
 - questao1.py
