@@ -1,5 +1,5 @@
 A = "*"
-qnt = int(input("quantidade de *:"))
+qnt = int(input("altura de *:"))
 if qnt > 20:
     print("não pode passar mais de 20")
 else:
