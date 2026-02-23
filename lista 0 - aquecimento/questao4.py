@@ -1,7 +1,7 @@
 txt = "soma = 10 + 20 ;"
 tokens = txt.split()
 for x in tokens:
-    if x == "[a-zA-Z]":
+    if x.isidentifier():
         print(f"",x," -> Identificador")
     elif x == "=":
         print(f"",x," -> atribuição")
@@ -9,7 +9,5 @@ for x in tokens:
         print(f"",x," -> Número")
     elif x in "+-*/":
         print(f"",x," -> Operador")
-    elif x.isdigit():
-        print(f"",x," -> Número")
     elif x == ";":
         print(f"",x," -> Fim de instrução")       
