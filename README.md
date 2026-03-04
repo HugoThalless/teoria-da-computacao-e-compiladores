@@ -1,5 +1,6 @@
 As questões foram feito em Python. \
-Lista 1 feita junto com: \
+Lista 1 feita em trio: \
+Hugo Thalles Souza  - 32414707 \
 Elizabeth Januário - 324141167 \
 Italo Baruc - 324274568 
 
