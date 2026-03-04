@@ -1,7 +1,7 @@
-As questões foram feito em Python.
-Lista 1 feita junto com:
-Elizabeth Januário - 324141167
-Italo Baruc - 324274568
+As questões foram feito em Python. \
+Lista 1 feita junto com: \
+Elizabeth Januário - 324141167 \
+Italo Baruc - 324274568 
 
 #### Como executar
 Clone o repositório:
