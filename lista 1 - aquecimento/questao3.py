@@ -1,4 +1,3 @@
-
 RH = {"ver_salario", "editar_perfil"} 
 TI = {"acesso_servidor", "editar_perfil"}
 total_permicoes = {RH | TI}

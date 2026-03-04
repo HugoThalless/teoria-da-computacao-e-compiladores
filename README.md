@@ -1,6 +1,6 @@
-## Lista 0 - Aquecimento
+### Lista 0 - Aquecimento
 As questões foram feito em Python.
-### Estrutura
+#### Estrutura
 lista 0 - aquecimento/
 - questao1.py
 - questao2.py
@@ -9,7 +9,7 @@ lista 0 - aquecimento/
 - questao5.py
 - questao6.py
 
-### Como executar
+#### Como executar
 Clone o repositório:
 ```
 git clone <url-do-repositorio>
